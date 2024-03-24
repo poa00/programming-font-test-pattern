@@ -18,4 +18,4 @@ This test pattern can be used to check if a programming font's letters are clear
 
 
 Ligatures test pattern is taken from [Iosevka](https://github.com/be5invis/Iosevka#ligations)
-For more ligatures patterns see  [Fira Code's showcases](https://github.com/tonsky/FiraCode/blob/master/extras/showcases.txt)
+For more ligatures patterns see  [Fira Code's showcases](./showcases.txt "(hosted locally on this repo)")
